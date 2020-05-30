@@ -11,5 +11,6 @@
 - 一、计算机组成原理
    - **[01.计算机的总线](https://github.com/CoderXiaohui/Basic-computer-knowledge/blob/master/1.计算机组成原理/01.计算机的总线.md)**
    - **[02.计算机存储器](https://github.com/CoderXiaohui/Basic-computer-knowledge/blob/master/1.计算机组成原理/02.计算机存储器.md)**
+   - **[03.计算机的高速缓存](/1.计算机组成原理/03.计算机的高速缓存.md)**
 - 二、操作系统
 - 三、计算机网络
